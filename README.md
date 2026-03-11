@@ -1,14 +1,3 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on       xyz
-- 🌱 I’m currently learning         xyz
-- 👯 I’m looking to collaborate on  xyz
-- 🤔 I’m looking for help with      xyz
-- 💬 Ask me about                   xyz
-- 📫 How to reach me:               xyz
-- 😄 Pronouns:                      xyz
-- ⚡ Fun fact:                       xyz
-
 # 💫 About Me:
 ## Hi there 👋<br><br>- 🔭 I’m currently working on       xyz<br>- 🌱 I’m currently learning         xyz<br>- 👯 I’m looking to collaborate on  xyz<br>- 🤔 I’m looking for help with      xyz<br>- 💬 Ask me about                   xyz<br>- 📫 How to reach me:               xyz<br>- 😄 Pronouns:                      xyz<br>- ⚡ Fun fact:                       xyz
 
