@@ -12,4 +12,4 @@
 
 <br clear="both">
 
-<p align="left">💻 Full Stack Developer<br>🚀 Skills: HTML, CSS, JS, React, Node<br>📫 Email: yourmail@gmail.com<br><br>Projects:<br>1. E-commerce Website<br>2. Chat Application<br>3. Portfolio Website</p>
+<p align="left">💻 Full Stack Developer<br>🚀 Skills: HTML, CSS, JS, React, Node<br>📫 Email: ak9123411@gmail.com<br><br>Projects:<br>1. E-commerce Website<br>2. Chat Application<br>3. Portfolio Website</p>
